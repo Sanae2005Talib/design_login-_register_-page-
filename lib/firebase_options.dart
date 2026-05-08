@@ -42,7 +42,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyAQ24O4bVBqexlDXD8IN3ATmeSHvMxBCHI',
-    appId: '1:481479762043:web:05f40546448ffaa1a502de',
+    appId: '1:481479762043:web:57ed447e6fd790eda502de',
     messagingSenderId: '481479762043',
     projectId: 'taskflowdi2',
     authDomain: 'taskflowdi2.firebaseapp.com',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAl1mDs0SVxEcwNvD2eVNmPF2HXNYH-gPo',
-    appId: '1:481479762043:android:85d997c60736b24aa502de',
+    appId: '1:481479762043:android:a5ae8c0a97e39f04a502de',
     messagingSenderId: '481479762043',
     projectId: 'taskflowdi2',
     storageBucket: 'taskflowdi2.firebasestorage.app',
@@ -59,11 +59,11 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyBNrdcdvOw2CgVDAqcuW0EkAu0kkxWzmjA',
-    appId: '1:481479762043:ios:5794af279f2d5e60a502de',
+    appId: '1:481479762043:ios:73b04b0c42bea350a502de',
     messagingSenderId: '481479762043',
     projectId: 'taskflowdi2',
     storageBucket: 'taskflowdi2.firebasestorage.app',
-    iosBundleId: 'com.example.taskFlow2',
+    iosBundleId: 'com.example.taskFlow3',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
